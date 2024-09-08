@@ -17,4 +17,4 @@ Welcome to my GitHub page. My name is Emily, a Master's of City Planning at Univ
 |  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=emilyzhou112&hide=stars&show_icons=true&theme=transparent&bg_color=00000000&rank_icon=github&custom_title=Emily's%20%GitHub%20%Record&line_height=24&hide_border=true&icon_color=9AB8D4&text_color=E38D8C" alt="Emily’s GitHub" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilyzhou112&layout=compact&size_weight=0.3&count_weight=0.7&langs_count=6&card_width=450&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" width="500" />  
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" width="100%" />  
