@@ -18,8 +18,10 @@ Welcome to my GitHub page. My name is Emily, a Master's of City Planning at Univ
   
 ## <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='40' /> My GitHub Stats: 
 
-|  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=emilyzhou112&hide=stars&show_icons=true&theme=transparent&bg_color=00000000&rank_icon=github&custom_title=Emily's%20%GitHub%20%Record&line_height=24&hide_border=true&title_color=9AB8D4&icon_color=9AB8D4&text_color=E38D8C" alt="Emily’s GitHub" /></a> |<a href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com/?user=emilyzhou112&theme=default&ring=9AB8D4&fire=9AB8D4&currStreakLabel=9AB8D4&sideLabels=E38D8C&dates=E38D8C" /></a> |<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilyzhou112&layout=compact&theme=transparent&bg_color=00000000&size_weight=0.3&count_weight=0.7&langs_count=6&card_width=450&hide_border=true&title_color=9AB8D4&icon_color=9AB8D4&text_color=E38D8C" /></a> |
-| ------------- | ------------- | ------------- |
+|  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=emilyzhou112&hide=stars&show_icons=true&theme=transparent&bg_color=00000000&rank_icon=github&custom_title=Emily's%20%GitHub%20%Record&line_height=24&hide_border=true&title_color=9AB8D4&icon_color=9AB8D4&text_color=E38D8C" alt="Emily’s GitHub" /></a> |<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilyzhou112&layout=compact&theme=transparent&bg_color=00000000&size_weight=0.3&count_weight=0.7&langs_count=6&card_width=450&hide_border=true&title_color=9AB8D4&icon_color=9AB8D4&text_color=E38D8C" /></a> |
+| ------------- | ------------- | 
+
+<a href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com/?user=emilyzhou112&theme=default&ring=9AB8D4&fire=9AB8D4&currStreakLabel=9AB8D4&sideLabels=E38D8C&dates=E38D8C" /></a> 
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" width="100%" height="50%" />  
 
