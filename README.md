@@ -3,7 +3,7 @@
 
 ## <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="35" />  About Me 
 
-Welcome to my GitHub page. My name is Emily, a Master's of City Planning at University of Pennsylvania's Weitzman School of Design. I received my Bachelor's of Art degree in Geography with double minors in Computer Science and Japanese Studies from Middlebury College. My research experience centers on designing and developing geospatial research methods, with a particular focus on uncertainty analyses, spatial decision support systems, and spatial optimizations. I am deeply interested in refining geospatial research design and validating existing methodologies to address complex planning challenges 
+Welcome to my GitHub page. My name is Emily, a Master's of City Planning student at the University of Pennsylvania's Weitzman School of Design. I received my Bachelor's of Art degree in Geography with double minors in Computer Science and Japanese Studies from Middlebury College. My research experience centers on designing and developing geospatial research methods, with a particular focus on uncertainty analyses, spatial decision support systems, and spatial optimizations in the field of public health and environmental planning. I am deeply interested in refining geospatial research design and validating existing methodologies to address complex planning challenges. 
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="35" /> My Work
  - 🤔 Research scientist at Penn's Annenberg School for Communication and Perelman School of Medicine; Research assistant at the Weitzman School of Design.
