@@ -19,7 +19,6 @@ Welcome to my GitHub page. My name is Emily, a Master's of City Planning student
 
 <a href="https://git.io/streak-stats"><img align="center" img width="100%" src="https://streak-stats.demolab.com/?user=emilyzhou112&theme=default&ring=9AB8D4&fire=9AB8D4&currStreakLabel=9AB8D4&sideLabels=E38D8C&dates=E38D8C" /></a> 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=emilyzhou112&theme=default&ring=9AB8D4&fire=9AB8D4&currStreakLabel=9AB8D4&sideLabels=E38D8C&dates=E38D8C)](https://git.io/streak-stats)
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" width="100%" height="50%" />  
 
