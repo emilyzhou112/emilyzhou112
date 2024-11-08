@@ -6,7 +6,7 @@
 Welcome to my GitHub page. My name is Emily, a Master's of City Planning student at the University of Pennsylvania's Weitzman School of Design. I received my Bachelor's of Art degree in Geography with double minors in Computer Science and Japanese Studies from Middlebury College. My research experience centers on designing and developing geospatial research methods, with a particular focus on uncertainty analyses, spatial decision support systems, and spatial optimizations in the field of public health and environmental planning. I am deeply interested in refining geospatial research design and validating existing methodologies to address complex planning challenges. 
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="35" /> My Work
- - 🤔 Research scientist at Penn's Annenberg School for Communication and Perelman School of Medicine; Research assistant at the Weitzman School of Design.
+- 🤔 Research Scientist at Penn's Annenberg School for Communication and Perelman School of Medicine; Research Assistant at the Weitzman School of Design.
 - 🌱 Personal research project on uncertainty and sensitivity analyses of different MCDA models to assess spatial unit sizes and shapes impact decision model outputs.
 - 😄 Previous research work on Reproducibility and Replicability in Geographical Science.
 - 💬 Ask me about R, Python, JavaScript, and Map Design!
@@ -18,6 +18,8 @@ Welcome to my GitHub page. My name is Emily, a Master's of City Planning student
 | ------------- | ------------- | 
 
 <a href="https://git.io/streak-stats"><img align="center" img width="100%" src="https://streak-stats.demolab.com/?user=emilyzhou112&theme=default&ring=9AB8D4&fire=9AB8D4&currStreakLabel=9AB8D4&sideLabels=E38D8C&dates=E38D8C" /></a> 
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=emilyzhou112&theme=default&ring=9AB8D4&fire=9AB8D4&currStreakLabel=9AB8D4&sideLabels=E38D8C&dates=E38D8C)](https://git.io/streak-stats)
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" width="100%" height="50%" />  
 
